@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/eungyugim/Desktop/WorkSpace/Unreal/AutoCamera/Source/AutoCamera/AutoCamera.Build.cs",
+		"/Users/eungyugim/Desktop/WorkSpace/Unreal/AutoCamera/Source/AutoCamera.Target.cs",
+		"/Users/eungyugim/Desktop/WorkSpace/Unreal/AutoCamera/Source/AutoCameraEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

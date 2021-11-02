@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AutoCamera",
+			"Path": "/Users/eungyugim/Desktop/WorkSpace/Unreal/AutoCamera/Source/AutoCamera.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AutoCameraEditor",
+			"Path": "/Users/eungyugim/Desktop/WorkSpace/Unreal/AutoCamera/Source/AutoCameraEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
